@@ -15,7 +15,7 @@ Texas electricity market saw a recent integration of electricity transmission as
  </details> 
  
 ## Working Papers
-An Equilibrium Analysis of Power Purchase Agreement <br/> with [Yeon Ju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/) (_submitted_)
+An Equilibrium Analysis of Power Purchase Agreement <br/> with [Yeon Ju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/) _(submitted)_
 <details><summary>Abstract</summary>
 Power Purchase Agreements (PPAs) are widely used long-term contracts to purchase electricity from renewable sources at a fixed price over long periods. This paper investigates the link between the risks associated with renewable power generation - specifically risks due to wholesale electricity price and project capacity. We examine a buyer's and seller's choice to participate in the PPA market using a stylized model. The equilibrium price is modeled as a function of wholesale market price and contracted quantity. Using the data on all utility-scale wind projects in the US, we test the predictions from the theoretical model in the empirical analysis of this paper. We show that the mean retail and wholesale electricity market price has a positive association with PPA prices whereas wholesale price volatility has a negative association with PPA prices. The sensitivity of the PPA prices are dependent on the participation decision of the buyers and sellers of electricity. Therefore, regulators should consider potential impacts of government policy on barriers to entry and length of contracts on PPA prices and therefore the financial returns of the renewable energy generators.
  </details>  
